@@ -70,6 +70,7 @@
     <orderEntry type="library" scope="TEST" name="SBT: net.sourceforge.htmlunit:htmlunit:2.12:jar" level="project" />
     <orderEntry type="library" scope="TEST" name="SBT: net.sourceforge.htmlunit:htmlunit-core-js:2.12:jar" level="project" />
     <orderEntry type="library" scope="TEST" name="SBT: net.sourceforge.nekohtml:nekohtml:1.9.18:jar" level="project" />
+    <orderEntry type="library" name="SBT: net.spy:spymemcached:2.12.1:jar" level="project" />
     <orderEntry type="library" name="SBT: oauth.signpost:signpost-commonshttp4:1.2.1.2:jar" level="project" />
     <orderEntry type="library" name="SBT: oauth.signpost:signpost-core:1.2.1.2:jar" level="project" />
     <orderEntry type="library" scope="TEST" name="SBT: org.apache.commons:commons-exec:1.1:jar" level="project" />
@@ -130,6 +131,5 @@
     <orderEntry type="library" scope="TEST" name="SBT: xalan:xalan:2.7.1:jar" level="project" />
     <orderEntry type="library" name="SBT: xerces:xercesImpl:2.11.0:jar" level="project" />
     <orderEntry type="library" name="SBT: xml-apis:xml-apis:1.4.01:jar" level="project" />
-    <orderEntry type="library" name="SBT: net.spy:spymemcached:2.12.1:jar" level="project" />
   </component>
 </module>
